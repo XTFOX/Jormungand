@@ -20,7 +20,7 @@ Morythe Bly put together [extensive notes](https://guildwarslegacy.com/forum/thr
 3. The text mod notes the exact position in game where I have seen a Frost Wurm spawn. I have seen the wurms spawn slightly off from where the markers are however they have always been in compass range when standing on a marker.
 
 ### Screenshot of the Texture Mod
-![Jormungand](https://i.imgur.com/8GWAdye.png)
+![Jormungand](https://i.imgur.com/xfDqUSO.png)
 
 ### Morythe Bly's Jormungand Map
 ![Jormungang](https://i.imgur.com/vsJI32A.png)
